@@ -43,11 +43,11 @@ This project is a user authentication system built using the MERN stack (MongoDB
 2. Install dependencies for both frontend and backend:
    ```bash
    # Backend dependencies
-   cd backend
+   cd Backend
    npm install
 
    # Frontend dependencies
-   cd ../frontend
+   cd ../Frontend
    npm install
    ```
 
@@ -63,7 +63,7 @@ This project is a user authentication system built using the MERN stack (MongoDB
 4. Start the development servers:
    ```bash
    # Backend
-   cd backend
+   cd Backend
    npm run start
 
    # Frontend
